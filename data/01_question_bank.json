@@ -1,0 +1,5080 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "textbook": "Essential Grammar in Use Third Edition／剑桥初级英语语法（第三版中文版）",
+    "units": 115,
+    "openThrough": 65,
+    "questionCount": 195,
+    "notes": "教材课次与单元标题已核对；本版含Unit1–65每课三道原创精选题，分别为A基础、B变式、C场景迁移。Unit66–115仅有目录元数据，尚无训练题，不宣称全量题库完成。答案用于AI批改参考，不提供给练习者作为提前提示。",
+    "auditStatus": "partial; two known translation issues corrected; all questions require final pedagogical review"
+  },
+  "units": [
+    {
+      "unit": 1,
+      "title": "am/is/are",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U001-G01"
+    },
+    {
+      "unit": 2,
+      "title": "am/is/are（疑问句）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U002-G01"
+    },
+    {
+      "unit": 3,
+      "title": "I am doing（现在进行时）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U003-G01"
+    },
+    {
+      "unit": 4,
+      "title": "Are you doing?（现在进行时疑问式）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U004-G01"
+    },
+    {
+      "unit": 5,
+      "title": "I do/work/like（一般现在时）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U005-G01"
+    },
+    {
+      "unit": 6,
+      "title": "I don't（一般现在时否定式）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U006-G01"
+    },
+    {
+      "unit": 7,
+      "title": "Do you...?（一般现在时疑问式）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U007-G01"
+    },
+    {
+      "unit": 8,
+      "title": "现在进行时与一般现在时比较",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U008-G01"
+    },
+    {
+      "unit": 9,
+      "title": "I have / I've got",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U009-G01"
+    },
+    {
+      "unit": 10,
+      "title": "was/were",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U010-G01"
+    },
+    {
+      "unit": 11,
+      "title": "worked/got/went（一般过去时）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U011-G01"
+    },
+    {
+      "unit": 12,
+      "title": "I didn't / Did you...?（一般过去时疑问与否定）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U012-G01"
+    },
+    {
+      "unit": 13,
+      "title": "I was doing（过去进行时）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U013-G01"
+    },
+    {
+      "unit": 14,
+      "title": "过去进行时与一般过去时比较",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U014-G01"
+    },
+    {
+      "unit": 15,
+      "title": "I have done（现在完成时1）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U015-G01"
+    },
+    {
+      "unit": 16,
+      "title": "just / already / yet（现在完成时2）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U016-G01"
+    },
+    {
+      "unit": 17,
+      "title": "Have you ever...?（现在完成时3）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U017-G01"
+    },
+    {
+      "unit": 18,
+      "title": "How long have you...?（现在完成时4）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U018-G01"
+    },
+    {
+      "unit": 19,
+      "title": "for / since / ago",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U019-G01"
+    },
+    {
+      "unit": 20,
+      "title": "现在完成时与一般过去时比较",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U020-G01"
+    },
+    {
+      "unit": 21,
+      "title": "is done / was done（被动语态1）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U021-G01"
+    },
+    {
+      "unit": 22,
+      "title": "is being done / has been done（被动语态2）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U022-G01"
+    },
+    {
+      "unit": 23,
+      "title": "be / have / do（现在与过去）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U023-G01"
+    },
+    {
+      "unit": 24,
+      "title": "规则与不规则动词",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U024-G01"
+    },
+    {
+      "unit": 25,
+      "title": "What are you doing tomorrow?",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U025-G01"
+    },
+    {
+      "unit": 26,
+      "title": "I'm going to...",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U026-G01"
+    },
+    {
+      "unit": 27,
+      "title": "will / shall（1）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U027-G01"
+    },
+    {
+      "unit": 28,
+      "title": "will / shall（2）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U028-G01"
+    },
+    {
+      "unit": 29,
+      "title": "might / may（可能性）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U029-G01"
+    },
+    {
+      "unit": 30,
+      "title": "can / could（能力与请求）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U030-G01"
+    },
+    {
+      "unit": 31,
+      "title": "must / mustn't / don't need to",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U031-G01"
+    },
+    {
+      "unit": 32,
+      "title": "should / shouldn't",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U032-G01"
+    },
+    {
+      "unit": 33,
+      "title": "have to / don't have to",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U033-G01"
+    },
+    {
+      "unit": 34,
+      "title": "Would you like...? / I'd like...",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U034-G01"
+    },
+    {
+      "unit": 35,
+      "title": "Do this! / Don't do that! / Let's...",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U035-G01"
+    },
+    {
+      "unit": 36,
+      "title": "I used to...",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U036-G01"
+    },
+    {
+      "unit": 37,
+      "title": "there is / there are",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U037-G01"
+    },
+    {
+      "unit": 38,
+      "title": "there was / there has been / there will be",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U038-G01"
+    },
+    {
+      "unit": 39,
+      "title": "It...（天气、时间等）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U039-G01"
+    },
+    {
+      "unit": 40,
+      "title": "I am / I don't（省略重复部分）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U040-G01"
+    },
+    {
+      "unit": 41,
+      "title": "have you? / are you? / don't you?（反意疑问）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U041-G01"
+    },
+    {
+      "unit": 42,
+      "title": "too / either / so / neither",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U042-G01"
+    },
+    {
+      "unit": 43,
+      "title": "isn't / haven't / don't（否定句）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U043-G01"
+    },
+    {
+      "unit": 44,
+      "title": "Is it...? / Have you...? / Do they...?",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U044-G01"
+    },
+    {
+      "unit": 45,
+      "title": "Who saw you? / Who did you see?",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U045-G01"
+    },
+    {
+      "unit": 46,
+      "title": "Who is she talking to? / What is it like?",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U046-G01"
+    },
+    {
+      "unit": 47,
+      "title": "What / Which / How...?",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U047-G01"
+    },
+    {
+      "unit": 48,
+      "title": "How long does it take...?",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U048-G01"
+    },
+    {
+      "unit": 49,
+      "title": "Do you know where...?（间接疑问）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U049-G01"
+    },
+    {
+      "unit": 50,
+      "title": "She said that... / He told me that...",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U050-G01"
+    },
+    {
+      "unit": 51,
+      "title": "work/working / go/going / do/doing",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U051-G01"
+    },
+    {
+      "unit": 52,
+      "title": "want to do / enjoy doing",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U052-G01"
+    },
+    {
+      "unit": 53,
+      "title": "want somebody to / tell somebody to",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U053-G01"
+    },
+    {
+      "unit": 54,
+      "title": "to...（目的）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U054-G01"
+    },
+    {
+      "unit": 55,
+      "title": "go to / go on / go for / go -ing",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U055-G01"
+    },
+    {
+      "unit": 56,
+      "title": "get",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U056-G01"
+    },
+    {
+      "unit": 57,
+      "title": "make / do",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U057-G01"
+    },
+    {
+      "unit": 58,
+      "title": "have",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U058-G01"
+    },
+    {
+      "unit": 59,
+      "title": "I/me / he/him / they/them",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U059-G01"
+    },
+    {
+      "unit": 60,
+      "title": "my/his/their",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U060-G01"
+    },
+    {
+      "unit": 61,
+      "title": "mine/yours/hers（名词性物主代词）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U061-G01"
+    },
+    {
+      "unit": 62,
+      "title": "I/me/my/mine（综合运用）",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U062-G01"
+    },
+    {
+      "unit": 63,
+      "title": "myself/yourself/themselves",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U063-G01"
+    },
+    {
+      "unit": 64,
+      "title": "Kate's camera / my brother's car",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U064-G01"
+    },
+    {
+      "unit": 65,
+      "title": "a / an",
+      "status": "active",
+      "exerciseCount": 3,
+      "source": "教材第三版目录核对",
+      "topicId": "U065-G01"
+    },
+    {
+      "unit": 66,
+      "title": "train(s) / bus(es)（复数）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U066-G01"
+    },
+    {
+      "unit": 67,
+      "title": "a bottle / some water（可数不可数1）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U067-G01"
+    },
+    {
+      "unit": 68,
+      "title": "a cake / some cake / some cakes（可数不可数2）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U068-G01"
+    },
+    {
+      "unit": 69,
+      "title": "a/an 与 the 比较",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U069-G01"
+    },
+    {
+      "unit": 70,
+      "title": "the...（定冠词）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U070-G01"
+    },
+    {
+      "unit": 71,
+      "title": "go to work / go home / go to the cinema",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U071-G01"
+    },
+    {
+      "unit": 72,
+      "title": "I like music / I hate exams",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U072-G01"
+    },
+    {
+      "unit": 73,
+      "title": "地名与 the",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U073-G01"
+    },
+    {
+      "unit": 74,
+      "title": "this / that / these / those",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U074-G01"
+    },
+    {
+      "unit": 75,
+      "title": "one / ones",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U075-G01"
+    },
+    {
+      "unit": 76,
+      "title": "some 与 any",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U076-G01"
+    },
+    {
+      "unit": 77,
+      "title": "not any / no / none",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U077-G01"
+    },
+    {
+      "unit": 78,
+      "title": "not anybody / nobody / nothing",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U078-G01"
+    },
+    {
+      "unit": 79,
+      "title": "somebody / anything / nowhere",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U079-G01"
+    },
+    {
+      "unit": 80,
+      "title": "all / every",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U080-G01"
+    },
+    {
+      "unit": 81,
+      "title": "all / most / some / any / no / none",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U081-G01"
+    },
+    {
+      "unit": 82,
+      "title": "both / either / neither",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U082-G01"
+    },
+    {
+      "unit": 83,
+      "title": "a lot / much / many",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U083-G01"
+    },
+    {
+      "unit": 84,
+      "title": "(a) little / (a) few",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U084-G01"
+    },
+    {
+      "unit": 85,
+      "title": "形容词",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U085-G01"
+    },
+    {
+      "unit": 86,
+      "title": "副词",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U086-G01"
+    },
+    {
+      "unit": 87,
+      "title": "old/older / expensive/more expensive",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U087-G01"
+    },
+    {
+      "unit": 88,
+      "title": "older than / more expensive than",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U088-G01"
+    },
+    {
+      "unit": 89,
+      "title": "not as...as",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U089-G01"
+    },
+    {
+      "unit": 90,
+      "title": "the oldest / the most expensive",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U090-G01"
+    },
+    {
+      "unit": 91,
+      "title": "enough",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U091-G01"
+    },
+    {
+      "unit": 92,
+      "title": "too",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U092-G01"
+    },
+    {
+      "unit": 93,
+      "title": "词序：动词＋宾语＋方式/地点等",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U093-G01"
+    },
+    {
+      "unit": 94,
+      "title": "always / usually / often（词序）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U094-G01"
+    },
+    {
+      "unit": 95,
+      "title": "still / yet / already",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U095-G01"
+    },
+    {
+      "unit": 96,
+      "title": "Give me that book! / Give it to me!",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U096-G01"
+    },
+    {
+      "unit": 97,
+      "title": "and / but / or / so / because",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U097-G01"
+    },
+    {
+      "unit": 98,
+      "title": "when...（时间从句）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U098-G01"
+    },
+    {
+      "unit": 99,
+      "title": "if we go...（真实条件）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U099-G01"
+    },
+    {
+      "unit": 100,
+      "title": "if I had...（假设条件）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U100-G01"
+    },
+    {
+      "unit": 101,
+      "title": "a person who... / a thing that...",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U101-G01"
+    },
+    {
+      "unit": 102,
+      "title": "the people we met / the hotel you stayed at",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U102-G01"
+    },
+    {
+      "unit": 103,
+      "title": "at / on / in（时间）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U103-G01"
+    },
+    {
+      "unit": 104,
+      "title": "from...to / until / since / for",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U104-G01"
+    },
+    {
+      "unit": 105,
+      "title": "before / after / during / while",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U105-G01"
+    },
+    {
+      "unit": 106,
+      "title": "in / at / on（地点1）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U106-G01"
+    },
+    {
+      "unit": 107,
+      "title": "in / at / on（地点2）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U107-G01"
+    },
+    {
+      "unit": 108,
+      "title": "to / in / at（方向地点）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U108-G01"
+    },
+    {
+      "unit": 109,
+      "title": "under / behind / opposite",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U109-G01"
+    },
+    {
+      "unit": 110,
+      "title": "up / over / through",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U110-G01"
+    },
+    {
+      "unit": 111,
+      "title": "on / at / by / with / about",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U111-G01"
+    },
+    {
+      "unit": 112,
+      "title": "介词＋-ing / afraid of / good at",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U112-G01"
+    },
+    {
+      "unit": 113,
+      "title": "listen to / look at（动词＋介词）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U113-G01"
+    },
+    {
+      "unit": 114,
+      "title": "go in / fall off / run away（短语动词1）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U114-G01"
+    },
+    {
+      "unit": 115,
+      "title": "put on your shoes / put your shoes on（短语动词2）",
+      "status": "locked",
+      "exerciseCount": 0,
+      "source": "教材第三版目录核对",
+      "topicId": "U115-G01"
+    }
+  ],
+  "questions": [
+    {
+      "id": "U001-A01",
+      "unit": 1,
+      "stage": "A",
+      "zh": "我是一名工程师。",
+      "en": "I am an engineer.",
+      "vocab": [
+        {
+          "id": "V-engineer",
+          "lemma": "engineer",
+          "zh": "工程师"
+        }
+      ],
+      "grammarIds": [
+        "U001-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U001-B01",
+      "unit": 1,
+      "stage": "B",
+      "zh": "他们今天很忙。",
+      "en": "They are very busy.",
+      "vocab": [
+        {
+          "id": "V-busy",
+          "lemma": "busy",
+          "zh": "忙的"
+        }
+      ],
+      "grammarIds": [
+        "U001-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U002-A01",
+      "unit": 2,
+      "stage": "A",
+      "zh": "你是学生吗？",
+      "en": "Are you a student?",
+      "vocab": [
+        {
+          "id": "V-student",
+          "lemma": "student",
+          "zh": "学生"
+        }
+      ],
+      "grammarIds": [
+        "U002-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U002-B01",
+      "unit": 2,
+      "stage": "B",
+      "zh": "她现在在办公室吗？",
+      "en": "Is she in the office now?",
+      "vocab": [
+        {
+          "id": "V-office",
+          "lemma": "office",
+          "zh": "办公室"
+        }
+      ],
+      "grammarIds": [
+        "U002-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U003-A01",
+      "unit": 3,
+      "stage": "A",
+      "zh": "我现在正在学习英语。",
+      "en": "I am studying English now.",
+      "vocab": [
+        {
+          "id": "V-study",
+          "lemma": "study",
+          "zh": "学习"
+        }
+      ],
+      "grammarIds": [
+        "U003-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U003-B01",
+      "unit": 3,
+      "stage": "B",
+      "zh": "她正在厨房做饭。",
+      "en": "She is cooking in the kitchen.",
+      "vocab": [
+        {
+          "id": "V-cook",
+          "lemma": "cook",
+          "zh": "做饭"
+        },
+        {
+          "id": "V-kitchen",
+          "lemma": "kitchen",
+          "zh": "厨房"
+        }
+      ],
+      "grammarIds": [
+        "U003-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U004-A01",
+      "unit": 4,
+      "stage": "A",
+      "zh": "你现在在看什么？",
+      "en": "What are you watching now?",
+      "vocab": [
+        {
+          "id": "V-watch",
+          "lemma": "watch",
+          "zh": "观看"
+        }
+      ],
+      "grammarIds": [
+        "U004-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U004-B01",
+      "unit": 4,
+      "stage": "B",
+      "zh": "他们正在等谁？",
+      "en": "Who are they waiting for?",
+      "vocab": [
+        {
+          "id": "V-wait",
+          "lemma": "wait",
+          "zh": "等待"
+        }
+      ],
+      "grammarIds": [
+        "U004-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U005-A01",
+      "unit": 5,
+      "stage": "A",
+      "zh": "我每天早上喝茶。",
+      "en": "I drink tea every morning.",
+      "vocab": [
+        {
+          "id": "V-drink",
+          "lemma": "drink",
+          "zh": "喝"
+        }
+      ],
+      "grammarIds": [
+        "U005-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U005-B01",
+      "unit": 5,
+      "stage": "B",
+      "zh": "我父亲在一家医院工作。",
+      "en": "My father works in a hospital.",
+      "vocab": [
+        {
+          "id": "V-hospital",
+          "lemma": "hospital",
+          "zh": "医院"
+        },
+        {
+          "id": "V-father",
+          "lemma": "father",
+          "zh": "父亲"
+        }
+      ],
+      "grammarIds": [
+        "U005-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U006-A01",
+      "unit": 6,
+      "stage": "A",
+      "zh": "我不喜欢太热的天气。",
+      "en": "I don't like very hot weather.",
+      "vocab": [
+        {
+          "id": "V-weather",
+          "lemma": "weather",
+          "zh": "天气"
+        }
+      ],
+      "grammarIds": [
+        "U006-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U006-B01",
+      "unit": 6,
+      "stage": "B",
+      "zh": "她周末不工作。",
+      "en": "She doesn't work at weekends.",
+      "vocab": [
+        {
+          "id": "V-weekend",
+          "lemma": "weekend",
+          "zh": "周末"
+        }
+      ],
+      "grammarIds": [
+        "U006-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U007-A01",
+      "unit": 7,
+      "stage": "A",
+      "zh": "你每天都练习英语吗？",
+      "en": "Do you practise English every day?",
+      "vocab": [
+        {
+          "id": "V-practise",
+          "lemma": "practise",
+          "zh": "练习"
+        }
+      ],
+      "grammarIds": [
+        "U007-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U007-B01",
+      "unit": 7,
+      "stage": "B",
+      "zh": "她住在这座城市吗？",
+      "en": "Does she live in this city?",
+      "vocab": [
+        {
+          "id": "V-live",
+          "lemma": "live",
+          "zh": "居住"
+        },
+        {
+          "id": "V-city",
+          "lemma": "city",
+          "zh": "城市"
+        }
+      ],
+      "grammarIds": [
+        "U007-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U008-A01",
+      "unit": 8,
+      "stage": "A",
+      "zh": "我通常骑车上班，但今天我正在步行。",
+      "en": "I usually cycle to work, but today I'm walking.",
+      "vocab": [
+        {
+          "id": "V-cycle",
+          "lemma": "cycle",
+          "zh": "骑车"
+        },
+        {
+          "id": "V-usually",
+          "lemma": "usually",
+          "zh": "通常"
+        },
+        {
+          "id": "V-work",
+          "lemma": "work",
+          "zh": "上班"
+        }
+      ],
+      "grammarIds": [
+        "U008-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U008-B01",
+      "unit": 8,
+      "stage": "B",
+      "zh": "他通常喝咖啡，但现在正在喝茶。",
+      "en": "He usually drinks coffee, but he's drinking tea now.",
+      "vocab": [
+        {
+          "id": "V-usually",
+          "lemma": "usually",
+          "zh": "通常"
+        },
+        {
+          "id": "V-coffee",
+          "lemma": "coffee",
+          "zh": "咖啡"
+        }
+      ],
+      "grammarIds": [
+        "U008-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U009-A01",
+      "unit": 9,
+      "stage": "A",
+      "zh": "我有一辆旧自行车。",
+      "en": "I have an old bicycle.",
+      "vocab": [
+        {
+          "id": "V-bicycle",
+          "lemma": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "grammarIds": [
+        "U009-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U009-B01",
+      "unit": 9,
+      "stage": "B",
+      "zh": "你有一把雨伞吗？",
+      "en": "Have you got an umbrella?",
+      "vocab": [
+        {
+          "id": "V-umbrella",
+          "lemma": "umbrella",
+          "zh": "雨伞"
+        }
+      ],
+      "grammarIds": [
+        "U009-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U010-A01",
+      "unit": 10,
+      "stage": "A",
+      "zh": "昨天我在家。",
+      "en": "I was at home yesterday.",
+      "vocab": [
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U010-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U010-B01",
+      "unit": 10,
+      "stage": "B",
+      "zh": "他们上周很忙。",
+      "en": "They were very busy last week.",
+      "vocab": [
+        {
+          "id": "V-busy",
+          "lemma": "busy",
+          "zh": "忙的"
+        }
+      ],
+      "grammarIds": [
+        "U010-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U011-A01",
+      "unit": 11,
+      "stage": "A",
+      "zh": "昨晚我看了一部电影。",
+      "en": "I watched a film last night.",
+      "vocab": [
+        {
+          "id": "V-film",
+          "lemma": "film",
+          "zh": "电影"
+        }
+      ],
+      "grammarIds": [
+        "U011-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U011-B01",
+      "unit": 11,
+      "stage": "B",
+      "zh": "她昨天去了超市。",
+      "en": "She went to the supermarket yesterday.",
+      "vocab": [
+        {
+          "id": "V-supermarket",
+          "lemma": "supermarket",
+          "zh": "超市"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U011-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U012-A01",
+      "unit": 12,
+      "stage": "A",
+      "zh": "我昨天没有工作。",
+      "en": "I didn't work yesterday.",
+      "vocab": [
+        {
+          "id": "V-work",
+          "lemma": "work",
+          "zh": "工作"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U012-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U012-B01",
+      "unit": 12,
+      "stage": "B",
+      "zh": "你昨晚给她打电话了吗？",
+      "en": "Did you call her last night?",
+      "vocab": [
+        {
+          "id": "V-call",
+          "lemma": "call",
+          "zh": "打电话"
+        }
+      ],
+      "grammarIds": [
+        "U012-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U013-A01",
+      "unit": 13,
+      "stage": "A",
+      "zh": "昨晚八点我正在看书。",
+      "en": "I was reading at eight last night.",
+      "vocab": [
+        {
+          "id": "V-read",
+          "lemma": "read",
+          "zh": "阅读"
+        }
+      ],
+      "grammarIds": [
+        "U013-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U013-B01",
+      "unit": 13,
+      "stage": "B",
+      "zh": "当时他们正在打网球。",
+      "en": "They were playing tennis at that time.",
+      "vocab": [
+        {
+          "id": "V-tennis",
+          "lemma": "tennis",
+          "zh": "网球"
+        }
+      ],
+      "grammarIds": [
+        "U013-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U014-A01",
+      "unit": 14,
+      "stage": "A",
+      "zh": "我进门时，她正在做饭。",
+      "en": "She was cooking when I came in.",
+      "vocab": [
+        {
+          "id": "V-cook",
+          "lemma": "cook",
+          "zh": "做饭"
+        }
+      ],
+      "grammarIds": [
+        "U014-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U014-B01",
+      "unit": 14,
+      "stage": "B",
+      "zh": "我看见他时，他正在跑步。",
+      "en": "He was running when I saw him.",
+      "vocab": [
+        {
+          "id": "V-run",
+          "lemma": "run",
+          "zh": "跑"
+        }
+      ],
+      "grammarIds": [
+        "U014-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U015-A01",
+      "unit": 15,
+      "stage": "A",
+      "zh": "我已经完成作业了。",
+      "en": "I have finished my homework.",
+      "vocab": [
+        {
+          "id": "V-finish",
+          "lemma": "finish",
+          "zh": "完成"
+        }
+      ],
+      "grammarIds": [
+        "U015-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U015-B01",
+      "unit": 15,
+      "stage": "B",
+      "zh": "她已经打扫了房间。",
+      "en": "She has cleaned the room.",
+      "vocab": [
+        {
+          "id": "V-clean",
+          "lemma": "clean",
+          "zh": "打扫"
+        },
+        {
+          "id": "V-room",
+          "lemma": "room",
+          "zh": "房间"
+        }
+      ],
+      "grammarIds": [
+        "U015-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U016-A01",
+      "unit": 16,
+      "stage": "A",
+      "zh": "我刚吃过午饭。",
+      "en": "I have just had lunch.",
+      "vocab": [
+        {
+          "id": "V-lunch",
+          "lemma": "lunch",
+          "zh": "午饭"
+        }
+      ],
+      "grammarIds": [
+        "U016-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U016-B01",
+      "unit": 16,
+      "stage": "B",
+      "zh": "他们还没有到。",
+      "en": "They haven't arrived yet.",
+      "vocab": [
+        {
+          "id": "V-arrive",
+          "lemma": "arrive",
+          "zh": "到达"
+        }
+      ],
+      "grammarIds": [
+        "U016-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U017-A01",
+      "unit": 17,
+      "stage": "A",
+      "zh": "你去过伦敦吗？",
+      "en": "Have you ever been to London?",
+      "vocab": [
+        {
+          "id": "V-london",
+          "lemma": "London",
+          "zh": "伦敦"
+        }
+      ],
+      "grammarIds": [
+        "U017-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U017-B01",
+      "unit": 17,
+      "stage": "B",
+      "zh": "我从来没有坐过飞机。",
+      "en": "I have never travelled by plane.",
+      "vocab": [
+        {
+          "id": "V-plane",
+          "lemma": "plane",
+          "zh": "飞机"
+        }
+      ],
+      "grammarIds": [
+        "U017-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U018-A01",
+      "unit": 18,
+      "stage": "A",
+      "zh": "你在这里住了多久？",
+      "en": "How long have you lived here?",
+      "vocab": [
+        {
+          "id": "V-live",
+          "lemma": "live",
+          "zh": "居住"
+        }
+      ],
+      "grammarIds": [
+        "U018-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U018-B01",
+      "unit": 18,
+      "stage": "B",
+      "zh": "她学英语多久了？",
+      "en": "How long has she studied English?",
+      "vocab": [
+        {
+          "id": "V-study",
+          "lemma": "study",
+          "zh": "学习"
+        }
+      ],
+      "grammarIds": [
+        "U018-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U019-A01",
+      "unit": 19,
+      "stage": "A",
+      "zh": "我在这里工作已经三年了。",
+      "en": "I have worked here for three years.",
+      "vocab": [
+        {
+          "id": "V-year",
+          "lemma": "year",
+          "zh": "年"
+        }
+      ],
+      "grammarIds": [
+        "U019-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U019-B01",
+      "unit": 19,
+      "stage": "B",
+      "zh": "他从星期一开始就一直生病。",
+      "en": "He has been ill since Monday.",
+      "vocab": [
+        {
+          "id": "V-ill",
+          "lemma": "ill",
+          "zh": "生病的"
+        }
+      ],
+      "grammarIds": [
+        "U019-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U020-A01",
+      "unit": 20,
+      "stage": "A",
+      "zh": "我昨天买了一本书。",
+      "en": "I bought a book yesterday.",
+      "vocab": [
+        {
+          "id": "V-buy",
+          "lemma": "buy",
+          "zh": "购买"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U020-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U020-B01",
+      "unit": 20,
+      "stage": "B",
+      "zh": "我以前见过这部电影。",
+      "en": "I have seen this film before.",
+      "vocab": [
+        {
+          "id": "V-see",
+          "lemma": "see",
+          "zh": "看见"
+        },
+        {
+          "id": "V-film",
+          "lemma": "film",
+          "zh": "电影"
+        }
+      ],
+      "grammarIds": [
+        "U020-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U021-A01",
+      "unit": 21,
+      "stage": "A",
+      "zh": "这座桥建于去年。",
+      "en": "This bridge was built last year.",
+      "vocab": [
+        {
+          "id": "V-build",
+          "lemma": "build",
+          "zh": "建造"
+        }
+      ],
+      "grammarIds": [
+        "U021-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U021-B01",
+      "unit": 21,
+      "stage": "B",
+      "zh": "这些办公室每天都有人打扫。",
+      "en": "These offices are cleaned every day.",
+      "vocab": [
+        {
+          "id": "V-clean",
+          "lemma": "clean",
+          "zh": "打扫"
+        },
+        {
+          "id": "V-office",
+          "lemma": "office",
+          "zh": "办公室"
+        }
+      ],
+      "grammarIds": [
+        "U021-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U022-A01",
+      "unit": 22,
+      "stage": "A",
+      "zh": "门正在被油漆。",
+      "en": "The door is being painted.",
+      "vocab": [
+        {
+          "id": "V-paint",
+          "lemma": "paint",
+          "zh": "刷漆"
+        }
+      ],
+      "grammarIds": [
+        "U022-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U022-B01",
+      "unit": 22,
+      "stage": "B",
+      "zh": "我的电脑已经修好了。",
+      "en": "My computer has been repaired.",
+      "vocab": [
+        {
+          "id": "V-repair",
+          "lemma": "repair",
+          "zh": "修理"
+        },
+        {
+          "id": "V-computer",
+          "lemma": "computer",
+          "zh": "电脑"
+        }
+      ],
+      "grammarIds": [
+        "U022-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U023-A01",
+      "unit": 23,
+      "stage": "A",
+      "zh": "你昨天有时间吗？",
+      "en": "Did you have time yesterday?",
+      "vocab": [
+        {
+          "id": "V-time",
+          "lemma": "time",
+          "zh": "时间"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U023-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U023-B01",
+      "unit": 23,
+      "stage": "B",
+      "zh": "她现在有两份工作。",
+      "en": "She has two jobs now.",
+      "vocab": [
+        {
+          "id": "V-job",
+          "lemma": "job",
+          "zh": "工作"
+        }
+      ],
+      "grammarIds": [
+        "U023-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U024-A01",
+      "unit": 24,
+      "stage": "A",
+      "zh": "我昨晚写了一封信。",
+      "en": "I wrote a letter last night.",
+      "vocab": [
+        {
+          "id": "V-write",
+          "lemma": "write",
+          "zh": "写"
+        }
+      ],
+      "grammarIds": [
+        "U024-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U024-B01",
+      "unit": 24,
+      "stage": "B",
+      "zh": "他上周丢了钥匙。",
+      "en": "He lost his keys last week.",
+      "vocab": [
+        {
+          "id": "V-lose",
+          "lemma": "lose",
+          "zh": "丢失"
+        },
+        {
+          "id": "V-key",
+          "lemma": "key",
+          "zh": "钥匙"
+        }
+      ],
+      "grammarIds": [
+        "U024-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U025-A01",
+      "unit": 25,
+      "stage": "A",
+      "zh": "我明天要见我的朋友。",
+      "en": "I'm meeting my friend tomorrow.",
+      "vocab": [
+        {
+          "id": "V-meet",
+          "lemma": "meet",
+          "zh": "见面"
+        }
+      ],
+      "grammarIds": [
+        "U025-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U025-B01",
+      "unit": 25,
+      "stage": "B",
+      "zh": "我们星期五要去旅行。",
+      "en": "We are going on a trip on Friday.",
+      "vocab": [
+        {
+          "id": "V-trip",
+          "lemma": "trip",
+          "zh": "旅行"
+        }
+      ],
+      "grammarIds": [
+        "U025-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U026-A01",
+      "unit": 26,
+      "stage": "A",
+      "zh": "我要买一辆新自行车。",
+      "en": "I'm going to buy a new bicycle.",
+      "vocab": [
+        {
+          "id": "V-bicycle",
+          "lemma": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "grammarIds": [
+        "U026-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U026-B01",
+      "unit": 26,
+      "stage": "B",
+      "zh": "看那些乌云，要下雨了。",
+      "en": "Look at those dark clouds. It's going to rain.",
+      "vocab": [
+        {
+          "id": "V-cloud",
+          "lemma": "cloud",
+          "zh": "云"
+        },
+        {
+          "id": "V-rain",
+          "lemma": "rain",
+          "zh": "下雨"
+        }
+      ],
+      "grammarIds": [
+        "U026-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U027-A01",
+      "unit": 27,
+      "stage": "A",
+      "zh": "我会给你打电话。",
+      "en": "I'll call you.",
+      "vocab": [
+        {
+          "id": "V-call",
+          "lemma": "call",
+          "zh": "打电话"
+        }
+      ],
+      "grammarIds": [
+        "U027-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U027-B01",
+      "unit": 27,
+      "stage": "B",
+      "zh": "我来帮你拿那个包。",
+      "en": "I'll carry that bag for you.",
+      "vocab": [
+        {
+          "id": "V-carry",
+          "lemma": "carry",
+          "zh": "搬运"
+        }
+      ],
+      "grammarIds": [
+        "U027-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U028-A01",
+      "unit": 28,
+      "stage": "A",
+      "zh": "我们去散步好吗？",
+      "en": "Shall we go for a walk?",
+      "vocab": [
+        {
+          "id": "V-walk",
+          "lemma": "walk",
+          "zh": "散步"
+        }
+      ],
+      "grammarIds": [
+        "U028-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U028-B01",
+      "unit": 28,
+      "stage": "B",
+      "zh": "我想我明天会在家。",
+      "en": "I think I'll be at home tomorrow.",
+      "vocab": [
+        {
+          "id": "V-think",
+          "lemma": "think",
+          "zh": "认为"
+        }
+      ],
+      "grammarIds": [
+        "U028-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U029-A01",
+      "unit": 29,
+      "stage": "A",
+      "zh": "明天可能会下雨。",
+      "en": "It might rain tomorrow.",
+      "vocab": [
+        {
+          "id": "V-rain",
+          "lemma": "rain",
+          "zh": "下雨"
+        }
+      ],
+      "grammarIds": [
+        "U029-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U029-B01",
+      "unit": 29,
+      "stage": "B",
+      "zh": "她今晚可能不来。",
+      "en": "She may not come tonight.",
+      "vocab": [
+        {
+          "id": "V-come",
+          "lemma": "come",
+          "zh": "来"
+        }
+      ],
+      "grammarIds": [
+        "U029-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U030-A01",
+      "unit": 30,
+      "stage": "A",
+      "zh": "我会游泳，但不会开车。",
+      "en": "I can swim, but I can't drive.",
+      "vocab": [
+        {
+          "id": "V-drive",
+          "lemma": "drive",
+          "zh": "开车"
+        },
+        {
+          "id": "V-swim",
+          "lemma": "swim",
+          "zh": "游泳"
+        }
+      ],
+      "grammarIds": [
+        "U030-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U030-B01",
+      "unit": 30,
+      "stage": "B",
+      "zh": "你能帮我打开窗户吗？",
+      "en": "Could you open the window for me, please?",
+      "vocab": [
+        {
+          "id": "V-window",
+          "lemma": "window",
+          "zh": "窗户"
+        }
+      ],
+      "grammarIds": [
+        "U030-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U031-A01",
+      "unit": 31,
+      "stage": "A",
+      "zh": "你不能在这里停车。",
+      "en": "You mustn't park here.",
+      "vocab": [
+        {
+          "id": "V-park",
+          "lemma": "park",
+          "zh": "停车"
+        }
+      ],
+      "grammarIds": [
+        "U031-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U031-B01",
+      "unit": 31,
+      "stage": "B",
+      "zh": "我今天不需要去办公室。",
+      "en": "I don't need to go to the office today.",
+      "vocab": [
+        {
+          "id": "V-office",
+          "lemma": "office",
+          "zh": "办公室"
+        }
+      ],
+      "grammarIds": [
+        "U031-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U032-A01",
+      "unit": 32,
+      "stage": "A",
+      "zh": "你应该早点睡觉。",
+      "en": "You should go to bed earlier.",
+      "vocab": [
+        {
+          "id": "V-early",
+          "lemma": "early",
+          "zh": "早"
+        }
+      ],
+      "grammarIds": [
+        "U032-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U032-B01",
+      "unit": 32,
+      "stage": "B",
+      "zh": "他不应该开车这么快。",
+      "en": "He shouldn't drive so fast.",
+      "vocab": [
+        {
+          "id": "V-fast",
+          "lemma": "fast",
+          "zh": "快地"
+        },
+        {
+          "id": "V-drive",
+          "lemma": "drive",
+          "zh": "开车"
+        }
+      ],
+      "grammarIds": [
+        "U032-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U033-A01",
+      "unit": 33,
+      "stage": "A",
+      "zh": "我每天都必须早起。",
+      "en": "I have to get up early every day.",
+      "vocab": [
+        {
+          "id": "V-get-up",
+          "lemma": "get up",
+          "zh": "起床"
+        }
+      ],
+      "grammarIds": [
+        "U033-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U033-B01",
+      "unit": 33,
+      "stage": "B",
+      "zh": "她昨天不得不步行回家。",
+      "en": "She had to walk home yesterday.",
+      "vocab": [
+        {
+          "id": "V-walk",
+          "lemma": "walk",
+          "zh": "步行"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U033-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U034-A01",
+      "unit": 34,
+      "stage": "A",
+      "zh": "我想要一杯茶。",
+      "en": "I'd like a cup of tea.",
+      "vocab": [
+        {
+          "id": "V-tea",
+          "lemma": "tea",
+          "zh": "茶"
+        }
+      ],
+      "grammarIds": [
+        "U034-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U034-B01",
+      "unit": 34,
+      "stage": "B",
+      "zh": "你想和我们一起吃午饭吗？",
+      "en": "Would you like to have lunch with us?",
+      "vocab": [
+        {
+          "id": "V-lunch",
+          "lemma": "lunch",
+          "zh": "午饭"
+        }
+      ],
+      "grammarIds": [
+        "U034-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U035-A01",
+      "unit": 35,
+      "stage": "A",
+      "zh": "请关上门。",
+      "en": "Please close the door.",
+      "vocab": [
+        {
+          "id": "V-close",
+          "lemma": "close",
+          "zh": "关上"
+        }
+      ],
+      "grammarIds": [
+        "U035-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U035-B01",
+      "unit": 35,
+      "stage": "B",
+      "zh": "我们现在开始吧。",
+      "en": "Let's start now.",
+      "vocab": [
+        {
+          "id": "V-start",
+          "lemma": "start",
+          "zh": "开始"
+        }
+      ],
+      "grammarIds": [
+        "U035-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U036-A01",
+      "unit": 36,
+      "stage": "A",
+      "zh": "我以前住在乡下。",
+      "en": "I used to live in the countryside.",
+      "vocab": [
+        {
+          "id": "V-countryside",
+          "lemma": "countryside",
+          "zh": "乡村"
+        }
+      ],
+      "grammarIds": [
+        "U036-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U036-B01",
+      "unit": 36,
+      "stage": "B",
+      "zh": "她以前每天骑车上班。",
+      "en": "She used to cycle to work every day.",
+      "vocab": [
+        {
+          "id": "V-cycle",
+          "lemma": "cycle",
+          "zh": "骑车"
+        },
+        {
+          "id": "V-work",
+          "lemma": "work",
+          "zh": "上班"
+        }
+      ],
+      "grammarIds": [
+        "U036-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U037-A01",
+      "unit": 37,
+      "stage": "A",
+      "zh": "桌子上有一本书。",
+      "en": "There is a book on the table.",
+      "vocab": [
+        {
+          "id": "V-table",
+          "lemma": "table",
+          "zh": "桌子"
+        }
+      ],
+      "grammarIds": [
+        "U037-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U037-B01",
+      "unit": 37,
+      "stage": "B",
+      "zh": "这个房间里有三把椅子。",
+      "en": "There are three chairs in this room.",
+      "vocab": [
+        {
+          "id": "V-chair",
+          "lemma": "chair",
+          "zh": "椅子"
+        },
+        {
+          "id": "V-room",
+          "lemma": "room",
+          "zh": "房间"
+        }
+      ],
+      "grammarIds": [
+        "U037-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U038-A01",
+      "unit": 38,
+      "stage": "A",
+      "zh": "昨晚有一场会议。",
+      "en": "There was a meeting last night.",
+      "vocab": [
+        {
+          "id": "V-meeting",
+          "lemma": "meeting",
+          "zh": "会议"
+        }
+      ],
+      "grammarIds": [
+        "U038-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U038-B01",
+      "unit": 38,
+      "stage": "B",
+      "zh": "明天会有一场考试。",
+      "en": "There will be an exam tomorrow.",
+      "vocab": [
+        {
+          "id": "V-exam",
+          "lemma": "exam",
+          "zh": "考试"
+        }
+      ],
+      "grammarIds": [
+        "U038-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U039-A01",
+      "unit": 39,
+      "stage": "A",
+      "zh": "今天很冷。",
+      "en": "It is cold today.",
+      "vocab": [
+        {
+          "id": "V-cold",
+          "lemma": "cold",
+          "zh": "冷的"
+        }
+      ],
+      "grammarIds": [
+        "U039-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U039-B01",
+      "unit": 39,
+      "stage": "B",
+      "zh": "现在是七点半。",
+      "en": "It is half past seven.",
+      "vocab": [
+        {
+          "id": "V-half",
+          "lemma": "half",
+          "zh": "一半"
+        }
+      ],
+      "grammarIds": [
+        "U039-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U040-A01",
+      "unit": 40,
+      "stage": "A",
+      "zh": "我喜欢音乐，但她不喜欢。",
+      "en": "I like music, but she doesn't.",
+      "vocab": [
+        {
+          "id": "V-music",
+          "lemma": "music",
+          "zh": "音乐"
+        }
+      ],
+      "grammarIds": [
+        "U040-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U040-B01",
+      "unit": 40,
+      "stage": "B",
+      "zh": "他会开车，我也会。",
+      "en": "He can drive, and I can too.",
+      "vocab": [
+        {
+          "id": "V-drive",
+          "lemma": "drive",
+          "zh": "开车"
+        }
+      ],
+      "grammarIds": [
+        "U040-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U041-A01",
+      "unit": 41,
+      "stage": "A",
+      "zh": "你已经吃过午饭了，是吗？",
+      "en": "You've had lunch, haven't you?",
+      "vocab": [
+        {
+          "id": "V-lunch",
+          "lemma": "lunch",
+          "zh": "午饭"
+        }
+      ],
+      "grammarIds": [
+        "U041-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U041-B01",
+      "unit": 41,
+      "stage": "B",
+      "zh": "她是老师，不是吗？",
+      "en": "She's a teacher, isn't she?",
+      "vocab": [
+        {
+          "id": "V-teacher",
+          "lemma": "teacher",
+          "zh": "老师"
+        }
+      ],
+      "grammarIds": [
+        "U041-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U042-A01",
+      "unit": 42,
+      "stage": "A",
+      "zh": "我也累了。",
+      "en": "I'm tired too.",
+      "vocab": [
+        {
+          "id": "V-tired",
+          "lemma": "tired",
+          "zh": "累的"
+        }
+      ],
+      "grammarIds": [
+        "U042-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U042-B01",
+      "unit": 42,
+      "stage": "B",
+      "zh": "我不喝咖啡，他也不喝。",
+      "en": "I don't drink coffee, and neither does he.",
+      "vocab": [
+        {
+          "id": "V-coffee",
+          "lemma": "coffee",
+          "zh": "咖啡"
+        }
+      ],
+      "grammarIds": [
+        "U042-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U043-A01",
+      "unit": 43,
+      "stage": "A",
+      "zh": "我还没有完成工作。",
+      "en": "I haven't finished my work yet.",
+      "vocab": [
+        {
+          "id": "V-finish",
+          "lemma": "finish",
+          "zh": "完成"
+        }
+      ],
+      "grammarIds": [
+        "U043-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U043-B01",
+      "unit": 43,
+      "stage": "B",
+      "zh": "他现在不在家。",
+      "en": "He isn't at home now.",
+      "vocab": [
+        {
+          "id": "V-home",
+          "lemma": "home",
+          "zh": "家"
+        }
+      ],
+      "grammarIds": [
+        "U043-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U044-A01",
+      "unit": 44,
+      "stage": "A",
+      "zh": "你会说英语吗？",
+      "en": "Do you speak English?",
+      "vocab": [
+        {
+          "id": "V-speak",
+          "lemma": "speak",
+          "zh": "说"
+        }
+      ],
+      "grammarIds": [
+        "U044-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U044-B01",
+      "unit": 44,
+      "stage": "B",
+      "zh": "你见过这部电影吗？",
+      "en": "Have you seen this film?",
+      "vocab": [
+        {
+          "id": "V-film",
+          "lemma": "film",
+          "zh": "电影"
+        }
+      ],
+      "grammarIds": [
+        "U044-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U045-A01",
+      "unit": 45,
+      "stage": "A",
+      "zh": "谁打破了窗户？",
+      "en": "Who broke the window?",
+      "vocab": [
+        {
+          "id": "V-break",
+          "lemma": "break",
+          "zh": "打破"
+        },
+        {
+          "id": "V-window",
+          "lemma": "window",
+          "zh": "窗户"
+        }
+      ],
+      "grammarIds": [
+        "U045-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U045-B01",
+      "unit": 45,
+      "stage": "B",
+      "zh": "你昨天见了谁？",
+      "en": "Who did you meet yesterday?",
+      "vocab": [
+        {
+          "id": "V-meet",
+          "lemma": "meet",
+          "zh": "见面"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U045-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U046-A01",
+      "unit": 46,
+      "stage": "A",
+      "zh": "你在和谁说话？",
+      "en": "Who are you talking to?",
+      "vocab": [
+        {
+          "id": "V-talk",
+          "lemma": "talk",
+          "zh": "谈话"
+        }
+      ],
+      "grammarIds": [
+        "U046-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U046-B01",
+      "unit": 46,
+      "stage": "B",
+      "zh": "这座城市怎么样？",
+      "en": "What is this city like?",
+      "vocab": [
+        {
+          "id": "V-city",
+          "lemma": "city",
+          "zh": "城市"
+        }
+      ],
+      "grammarIds": [
+        "U046-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U047-A01",
+      "unit": 47,
+      "stage": "A",
+      "zh": "你更喜欢哪一个？",
+      "en": "Which one do you prefer?",
+      "vocab": [
+        {
+          "id": "V-prefer",
+          "lemma": "prefer",
+          "zh": "更喜欢"
+        }
+      ],
+      "grammarIds": [
+        "U047-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U047-B01",
+      "unit": 47,
+      "stage": "B",
+      "zh": "你怎样去上班？",
+      "en": "How do you get to work?",
+      "vocab": [
+        {
+          "id": "V-work",
+          "lemma": "work",
+          "zh": "工作"
+        }
+      ],
+      "grammarIds": [
+        "U047-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U048-A01",
+      "unit": 48,
+      "stage": "A",
+      "zh": "到车站需要多长时间？",
+      "en": "How long does it take to get to the station?",
+      "vocab": [
+        {
+          "id": "V-station",
+          "lemma": "station",
+          "zh": "车站"
+        }
+      ],
+      "grammarIds": [
+        "U048-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U048-B01",
+      "unit": 48,
+      "stage": "B",
+      "zh": "从这里开车回家要多久？",
+      "en": "How long does it take to drive home from here?",
+      "vocab": [
+        {
+          "id": "V-drive",
+          "lemma": "drive",
+          "zh": "开车"
+        }
+      ],
+      "grammarIds": [
+        "U048-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U049-A01",
+      "unit": 49,
+      "stage": "A",
+      "zh": "你知道她住在哪里吗？",
+      "en": "Do you know where she lives?",
+      "vocab": [
+        {
+          "id": "V-live",
+          "lemma": "live",
+          "zh": "居住"
+        }
+      ],
+      "grammarIds": [
+        "U049-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U049-B01",
+      "unit": 49,
+      "stage": "B",
+      "zh": "你能告诉我现在几点吗？",
+      "en": "Can you tell me what time it is?",
+      "vocab": [
+        {
+          "id": "V-time",
+          "lemma": "time",
+          "zh": "时间"
+        },
+        {
+          "id": "V-tell",
+          "lemma": "tell",
+          "zh": "告诉"
+        }
+      ],
+      "grammarIds": [
+        "U049-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U050-A01",
+      "unit": 50,
+      "stage": "A",
+      "zh": "她说她很累。",
+      "en": "She said that she was tired.",
+      "vocab": [
+        {
+          "id": "V-tired",
+          "lemma": "tired",
+          "zh": "疲倦的"
+        }
+      ],
+      "grammarIds": [
+        "U050-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U050-B01",
+      "unit": 50,
+      "stage": "B",
+      "zh": "他告诉我他没有时间。",
+      "en": "He told me that he didn't have time.",
+      "vocab": [
+        {
+          "id": "V-tell",
+          "lemma": "tell",
+          "zh": "告诉"
+        },
+        {
+          "id": "V-time",
+          "lemma": "time",
+          "zh": "时间"
+        }
+      ],
+      "grammarIds": [
+        "U050-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U051-A01",
+      "unit": 51,
+      "stage": "A",
+      "zh": "我喜欢在公园里散步。",
+      "en": "I like walking in the park.",
+      "vocab": [
+        {
+          "id": "V-walk",
+          "lemma": "walk",
+          "zh": "散步"
+        },
+        {
+          "id": "V-park",
+          "lemma": "park",
+          "zh": "公园"
+        }
+      ],
+      "grammarIds": [
+        "U051-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U051-B01",
+      "unit": 51,
+      "stage": "B",
+      "zh": "游泳对我来说很有趣。",
+      "en": "Swimming is fun for me.",
+      "vocab": [
+        {
+          "id": "V-swim",
+          "lemma": "swim",
+          "zh": "游泳"
+        }
+      ],
+      "grammarIds": [
+        "U051-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U052-A01",
+      "unit": 52,
+      "stage": "A",
+      "zh": "我想学习英语。",
+      "en": "I want to learn English.",
+      "vocab": [
+        {
+          "id": "V-learn",
+          "lemma": "learn",
+          "zh": "学习"
+        }
+      ],
+      "grammarIds": [
+        "U052-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U052-B01",
+      "unit": 52,
+      "stage": "B",
+      "zh": "她喜欢读书。",
+      "en": "She enjoys reading.",
+      "vocab": [
+        {
+          "id": "V-read",
+          "lemma": "read",
+          "zh": "阅读"
+        }
+      ],
+      "grammarIds": [
+        "U052-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U053-A01",
+      "unit": 53,
+      "stage": "A",
+      "zh": "我希望你帮我。",
+      "en": "I want you to help me.",
+      "vocab": [
+        {
+          "id": "V-help",
+          "lemma": "help",
+          "zh": "帮助"
+        }
+      ],
+      "grammarIds": [
+        "U053-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U053-B01",
+      "unit": 53,
+      "stage": "B",
+      "zh": "他叫我等一会儿。",
+      "en": "He told me to wait a moment.",
+      "vocab": [
+        {
+          "id": "V-wait",
+          "lemma": "wait",
+          "zh": "等待"
+        }
+      ],
+      "grammarIds": [
+        "U053-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U054-A01",
+      "unit": 54,
+      "stage": "A",
+      "zh": "我去商店买牛奶。",
+      "en": "I went to the shop to buy milk.",
+      "vocab": [
+        {
+          "id": "V-milk",
+          "lemma": "milk",
+          "zh": "牛奶"
+        }
+      ],
+      "grammarIds": [
+        "U054-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U054-B01",
+      "unit": 54,
+      "stage": "B",
+      "zh": "她去图书馆学习。",
+      "en": "She went to the library to study.",
+      "vocab": [
+        {
+          "id": "V-library",
+          "lemma": "library",
+          "zh": "图书馆"
+        },
+        {
+          "id": "V-study",
+          "lemma": "study",
+          "zh": "学习"
+        }
+      ],
+      "grammarIds": [
+        "U054-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U055-A01",
+      "unit": 55,
+      "stage": "A",
+      "zh": "我们星期天去游泳吧。",
+      "en": "Let's go swimming on Sunday.",
+      "vocab": [
+        {
+          "id": "V-swim",
+          "lemma": "swim",
+          "zh": "游泳"
+        }
+      ],
+      "grammarIds": [
+        "U055-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U055-B01",
+      "unit": 55,
+      "stage": "B",
+      "zh": "她每天早晨跑步。",
+      "en": "She goes running every morning.",
+      "vocab": [
+        {
+          "id": "V-run",
+          "lemma": "run",
+          "zh": "跑步"
+        }
+      ],
+      "grammarIds": [
+        "U055-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U056-A01",
+      "unit": 56,
+      "stage": "A",
+      "zh": "我今天早上起得很早。",
+      "en": "I got up early this morning.",
+      "vocab": [
+        {
+          "id": "V-get-up",
+          "lemma": "get up",
+          "zh": "起床"
+        }
+      ],
+      "grammarIds": [
+        "U056-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U056-B01",
+      "unit": 56,
+      "stage": "B",
+      "zh": "天越来越冷了。",
+      "en": "It's getting colder and colder.",
+      "vocab": [
+        {
+          "id": "V-get",
+          "lemma": "get",
+          "zh": "变得"
+        }
+      ],
+      "grammarIds": [
+        "U056-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U057-A01",
+      "unit": 57,
+      "stage": "A",
+      "zh": "我每天做作业。",
+      "en": "I do my homework every day.",
+      "vocab": [
+        {
+          "id": "V-homework",
+          "lemma": "homework",
+          "zh": "家庭作业"
+        }
+      ],
+      "grammarIds": [
+        "U057-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U057-B01",
+      "unit": 57,
+      "stage": "B",
+      "zh": "我昨天犯了一个错误。",
+      "en": "I made a mistake yesterday.",
+      "vocab": [
+        {
+          "id": "V-mistake",
+          "lemma": "mistake",
+          "zh": "错误"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U057-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U058-A01",
+      "unit": 58,
+      "stage": "A",
+      "zh": "我们昨天吃了一顿不错的晚餐。",
+      "en": "We had a nice dinner yesterday.",
+      "vocab": [
+        {
+          "id": "V-dinner",
+          "lemma": "dinner",
+          "zh": "晚餐"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U058-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U058-B01",
+      "unit": 58,
+      "stage": "B",
+      "zh": "我每天早上洗澡。",
+      "en": "I have a shower every morning.",
+      "vocab": [
+        {
+          "id": "V-shower",
+          "lemma": "shower",
+          "zh": "淋浴"
+        }
+      ],
+      "grammarIds": [
+        "U058-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U059-A01",
+      "unit": 59,
+      "stage": "A",
+      "zh": "我认识她，但她不认识我。",
+      "en": "I know her, but she doesn't know me.",
+      "vocab": [
+        {
+          "id": "V-know",
+          "lemma": "know",
+          "zh": "认识"
+        }
+      ],
+      "grammarIds": [
+        "U059-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U059-B01",
+      "unit": 59,
+      "stage": "B",
+      "zh": "他给我们打了电话。",
+      "en": "He called us.",
+      "vocab": [
+        {
+          "id": "V-call",
+          "lemma": "call",
+          "zh": "打电话"
+        }
+      ],
+      "grammarIds": [
+        "U059-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U060-A01",
+      "unit": 60,
+      "stage": "A",
+      "zh": "这是我的书。",
+      "en": "This is my book.",
+      "vocab": [
+        {
+          "id": "V-book",
+          "lemma": "book",
+          "zh": "书"
+        }
+      ],
+      "grammarIds": [
+        "U060-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U060-B01",
+      "unit": 60,
+      "stage": "B",
+      "zh": "他们正在洗他们的车。",
+      "en": "They are washing their car.",
+      "vocab": [
+        {
+          "id": "V-wash",
+          "lemma": "wash",
+          "zh": "清洗"
+        }
+      ],
+      "grammarIds": [
+        "U060-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U061-A01",
+      "unit": 61,
+      "stage": "A",
+      "zh": "这把伞是你的吗？",
+      "en": "Is this umbrella yours?",
+      "vocab": [
+        {
+          "id": "V-umbrella",
+          "lemma": "umbrella",
+          "zh": "雨伞"
+        }
+      ],
+      "grammarIds": [
+        "U061-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U061-B01",
+      "unit": 61,
+      "stage": "B",
+      "zh": "那辆自行车是她的。",
+      "en": "That bicycle is hers.",
+      "vocab": [
+        {
+          "id": "V-bicycle",
+          "lemma": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "grammarIds": [
+        "U061-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U062-A01",
+      "unit": 62,
+      "stage": "A",
+      "zh": "她把她的号码给了我，我把我的号码给了她。",
+      "en": "She gave me her number, and I gave her mine.",
+      "vocab": [
+        {
+          "id": "V-number",
+          "lemma": "number",
+          "zh": "号码"
+        }
+      ],
+      "grammarIds": [
+        "U062-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U062-B01",
+      "unit": 62,
+      "stage": "B",
+      "zh": "我没有雨伞，所以他把他的借给了我。",
+      "en": "I didn't have an umbrella, so he lent me his.",
+      "vocab": [
+        {
+          "id": "V-lend",
+          "lemma": "lend",
+          "zh": "借给"
+        },
+        {
+          "id": "V-umbrella",
+          "lemma": "umbrella",
+          "zh": "雨伞"
+        }
+      ],
+      "grammarIds": [
+        "U062-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U063-A01",
+      "unit": 63,
+      "stage": "A",
+      "zh": "我自己做的晚饭。",
+      "en": "I made dinner myself.",
+      "vocab": [
+        {
+          "id": "V-make",
+          "lemma": "make",
+          "zh": "做"
+        }
+      ],
+      "grammarIds": [
+        "U063-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U063-B01",
+      "unit": 63,
+      "stage": "B",
+      "zh": "他们玩得很开心。",
+      "en": "They enjoyed themselves.",
+      "vocab": [
+        {
+          "id": "V-enjoy",
+          "lemma": "enjoy",
+          "zh": "享受"
+        }
+      ],
+      "grammarIds": [
+        "U063-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U064-A01",
+      "unit": 64,
+      "stage": "A",
+      "zh": "这是我妹妹的自行车。",
+      "en": "This is my sister's bicycle.",
+      "vocab": [
+        {
+          "id": "V-sister",
+          "lemma": "sister",
+          "zh": "妹妹"
+        },
+        {
+          "id": "V-bicycle",
+          "lemma": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "grammarIds": [
+        "U064-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U064-B01",
+      "unit": 64,
+      "stage": "B",
+      "zh": "你知道汤姆的电话号码吗？",
+      "en": "Do you know Tom's phone number?",
+      "vocab": [
+        {
+          "id": "V-phone-number",
+          "lemma": "phone number",
+          "zh": "电话号码"
+        },
+        {
+          "id": "V-number",
+          "lemma": "number",
+          "zh": "号码"
+        }
+      ],
+      "grammarIds": [
+        "U064-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U065-A01",
+      "unit": 65,
+      "stage": "A",
+      "zh": "她是一名医生。",
+      "en": "She is a doctor.",
+      "vocab": [
+        {
+          "id": "V-doctor",
+          "lemma": "doctor",
+          "zh": "医生"
+        }
+      ],
+      "grammarIds": [
+        "U065-G01"
+      ],
+      "difficulty": 1,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U065-B01",
+      "unit": 65,
+      "stage": "B",
+      "zh": "我需要一把雨伞。",
+      "en": "I need an umbrella.",
+      "vocab": [
+        {
+          "id": "V-umbrella",
+          "lemma": "umbrella",
+          "zh": "雨伞"
+        }
+      ],
+      "grammarIds": [
+        "U065-G01"
+      ],
+      "difficulty": 2,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U001-C01",
+      "unit": 1,
+      "stage": "C",
+      "zh": "今天会议室很安静。",
+      "en": "The meeting room is quiet today.",
+      "vocab": [
+        {
+          "id": "V-quiet",
+          "lemma": "quiet",
+          "zh": "安静的"
+        },
+        {
+          "id": "V-meeting",
+          "lemma": "meeting",
+          "zh": "会议"
+        }
+      ],
+      "grammarIds": [
+        "U001-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U002-C01",
+      "unit": 2,
+      "stage": "C",
+      "zh": "你的新同事是英国人吗？",
+      "en": "Is your new colleague British?",
+      "vocab": [
+        {
+          "id": "V-colleague",
+          "lemma": "colleague",
+          "zh": "同事"
+        }
+      ],
+      "grammarIds": [
+        "U002-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U003-C01",
+      "unit": 3,
+      "stage": "C",
+      "zh": "请稍等，我正在发邮件。",
+      "en": "Please wait a moment. I'm sending an email.",
+      "vocab": [
+        {
+          "id": "V-send",
+          "lemma": "send",
+          "zh": "发送"
+        }
+      ],
+      "grammarIds": [
+        "U003-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U004-C01",
+      "unit": 4,
+      "stage": "C",
+      "zh": "外面下雨了吗？",
+      "en": "Is it raining outside?",
+      "vocab": [
+        {
+          "id": "V-rain",
+          "lemma": "rain",
+          "zh": "下雨"
+        }
+      ],
+      "grammarIds": [
+        "U004-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U005-C01",
+      "unit": 5,
+      "stage": "C",
+      "zh": "我每天晚上练习听力。",
+      "en": "I practise listening every evening.",
+      "vocab": [
+        {
+          "id": "V-practise",
+          "lemma": "practise",
+          "zh": "练习"
+        }
+      ],
+      "grammarIds": [
+        "U005-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U006-C01",
+      "unit": 6,
+      "stage": "C",
+      "zh": "她不在星期日开车。",
+      "en": "She doesn't drive on Sundays.",
+      "vocab": [
+        {
+          "id": "V-drive",
+          "lemma": "drive",
+          "zh": "开车"
+        }
+      ],
+      "grammarIds": [
+        "U006-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U007-C01",
+      "unit": 7,
+      "stage": "C",
+      "zh": "你哥哥在家工作吗？",
+      "en": "Does your brother work from home?",
+      "vocab": [
+        {
+          "id": "V-brother",
+          "lemma": "brother",
+          "zh": "哥哥"
+        }
+      ],
+      "grammarIds": [
+        "U007-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U008-C01",
+      "unit": 8,
+      "stage": "C",
+      "zh": "他通常走路回家，今天却正在坐公交车。",
+      "en": "He usually walks home, but today he's taking the bus.",
+      "vocab": [
+        {
+          "id": "V-bus",
+          "lemma": "bus",
+          "zh": "公交车"
+        },
+        {
+          "id": "V-usually",
+          "lemma": "usually",
+          "zh": "通常"
+        }
+      ],
+      "grammarIds": [
+        "U008-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U009-C01",
+      "unit": 9,
+      "stage": "C",
+      "zh": "他们有一台新电脑。",
+      "en": "They've got a new computer.",
+      "vocab": [
+        {
+          "id": "V-computer",
+          "lemma": "computer",
+          "zh": "电脑"
+        }
+      ],
+      "grammarIds": [
+        "U009-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U010-C01",
+      "unit": 10,
+      "stage": "C",
+      "zh": "那家商店昨天关门了。",
+      "en": "The shop was closed yesterday.",
+      "vocab": [
+        {
+          "id": "V-shop",
+          "lemma": "shop",
+          "zh": "商店"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U010-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U011-C01",
+      "unit": 11,
+      "stage": "C",
+      "zh": "我上周学了十个新单词。",
+      "en": "I learned ten new words last week.",
+      "vocab": [
+        {
+          "id": "V-learn",
+          "lemma": "learn",
+          "zh": "学习"
+        }
+      ],
+      "grammarIds": [
+        "U011-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U012-C01",
+      "unit": 12,
+      "stage": "C",
+      "zh": "你上周末去了哪里？",
+      "en": "Where did you go last weekend?",
+      "vocab": [
+        {
+          "id": "V-weekend",
+          "lemma": "weekend",
+          "zh": "周末"
+        }
+      ],
+      "grammarIds": [
+        "U012-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U013-C01",
+      "unit": 13,
+      "stage": "C",
+      "zh": "昨晚十点，他正在准备晚饭。",
+      "en": "He was preparing dinner at ten last night.",
+      "vocab": [
+        {
+          "id": "V-prepare",
+          "lemma": "prepare",
+          "zh": "准备"
+        }
+      ],
+      "grammarIds": [
+        "U013-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U014-C01",
+      "unit": 14,
+      "stage": "C",
+      "zh": "我到家的时候，孩子们正在看电视。",
+      "en": "The children were watching TV when I got home.",
+      "vocab": [
+        {
+          "id": "V-watch",
+          "lemma": "watch",
+          "zh": "观看"
+        }
+      ],
+      "grammarIds": [
+        "U014-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U015-C01",
+      "unit": 15,
+      "stage": "C",
+      "zh": "我已经读完这本书了。",
+      "en": "I've finished reading this book.",
+      "vocab": [
+        {
+          "id": "V-finish",
+          "lemma": "finish",
+          "zh": "完成"
+        }
+      ],
+      "grammarIds": [
+        "U015-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U016-C01",
+      "unit": 16,
+      "stage": "C",
+      "zh": "我已经吃过饭了，但她还没有吃。",
+      "en": "I've already eaten, but she hasn't eaten yet.",
+      "vocab": [
+        {
+          "id": "V-eat",
+          "lemma": "eat",
+          "zh": "吃"
+        }
+      ],
+      "grammarIds": [
+        "U016-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U017-C01",
+      "unit": 17,
+      "stage": "C",
+      "zh": "你以前骑过马吗？",
+      "en": "Have you ever ridden a horse?",
+      "vocab": [
+        {
+          "id": "V-ride",
+          "lemma": "ride",
+          "zh": "骑"
+        }
+      ],
+      "grammarIds": [
+        "U017-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U018-C01",
+      "unit": 18,
+      "stage": "C",
+      "zh": "你认识她多久了？",
+      "en": "How long have you known her?",
+      "vocab": [
+        {
+          "id": "V-know",
+          "lemma": "know",
+          "zh": "认识"
+        }
+      ],
+      "grammarIds": [
+        "U018-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U019-C01",
+      "unit": 19,
+      "stage": "C",
+      "zh": "我从六月开始就一直在这里。",
+      "en": "I've been here since June.",
+      "vocab": [
+        {
+          "id": "V-june",
+          "lemma": "June",
+          "zh": "六月"
+        }
+      ],
+      "grammarIds": [
+        "U019-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U020-C01",
+      "unit": 20,
+      "stage": "C",
+      "zh": "我上个月搬来了这里，从那以后一直住在这里。",
+      "en": "I moved here last month, and I've lived here since then.",
+      "vocab": [
+        {
+          "id": "V-move",
+          "lemma": "move",
+          "zh": "搬家"
+        }
+      ],
+      "grammarIds": [
+        "U020-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U021-C01",
+      "unit": 21,
+      "stage": "C",
+      "zh": "这些窗户每周都有人清洗。",
+      "en": "These windows are cleaned every week.",
+      "vocab": [
+        {
+          "id": "V-window",
+          "lemma": "window",
+          "zh": "窗户"
+        }
+      ],
+      "grammarIds": [
+        "U021-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U022-C01",
+      "unit": 22,
+      "stage": "C",
+      "zh": "这条路正在被修理。",
+      "en": "The road is being repaired.",
+      "vocab": [
+        {
+          "id": "V-repair",
+          "lemma": "repair",
+          "zh": "维修"
+        }
+      ],
+      "grammarIds": [
+        "U022-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U023-C01",
+      "unit": 23,
+      "stage": "C",
+      "zh": "你昨天为什么没有带钥匙？",
+      "en": "Why didn't you have your keys yesterday?",
+      "vocab": [
+        {
+          "id": "V-key",
+          "lemma": "key",
+          "zh": "钥匙"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U023-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U024-C01",
+      "unit": 24,
+      "stage": "C",
+      "zh": "他昨晚很早就上床睡觉了。",
+      "en": "He went to bed early last night.",
+      "vocab": [
+        {
+          "id": "V-sleep",
+          "lemma": "sleep",
+          "zh": "睡觉"
+        }
+      ],
+      "grammarIds": [
+        "U024-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U025-C01",
+      "unit": 25,
+      "stage": "C",
+      "zh": "我们下周一要开会。",
+      "en": "We're having a meeting next Monday.",
+      "vocab": [
+        {
+          "id": "V-meeting",
+          "lemma": "meeting",
+          "zh": "会议"
+        }
+      ],
+      "grammarIds": [
+        "U025-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U026-C01",
+      "unit": 26,
+      "stage": "C",
+      "zh": "我今年打算多锻炼。",
+      "en": "I'm going to exercise more this year.",
+      "vocab": [
+        {
+          "id": "V-exercise",
+          "lemma": "exercise",
+          "zh": "锻炼"
+        }
+      ],
+      "grammarIds": [
+        "U026-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U027-C01",
+      "unit": 27,
+      "stage": "C",
+      "zh": "别担心，我会等你。",
+      "en": "Don't worry. I'll wait for you.",
+      "vocab": [
+        {
+          "id": "V-wait",
+          "lemma": "wait",
+          "zh": "等"
+        }
+      ],
+      "grammarIds": [
+        "U027-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U028-C01",
+      "unit": 28,
+      "stage": "C",
+      "zh": "我给你拿一杯水好吗？",
+      "en": "Shall I get you a glass of water?",
+      "vocab": [
+        {
+          "id": "V-water",
+          "lemma": "water",
+          "zh": "水"
+        }
+      ],
+      "grammarIds": [
+        "U028-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U029-C01",
+      "unit": 29,
+      "stage": "C",
+      "zh": "这个周末我们可能去看电影。",
+      "en": "We might go to the cinema this weekend.",
+      "vocab": [
+        {
+          "id": "V-cinema",
+          "lemma": "cinema",
+          "zh": "电影院"
+        },
+        {
+          "id": "V-weekend",
+          "lemma": "weekend",
+          "zh": "周末"
+        }
+      ],
+      "grammarIds": [
+        "U029-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U030-C01",
+      "unit": 30,
+      "stage": "C",
+      "zh": "你能再说一遍吗？",
+      "en": "Could you say that again, please?",
+      "vocab": [
+        {
+          "id": "V-again",
+          "lemma": "again",
+          "zh": "再一次"
+        }
+      ],
+      "grammarIds": [
+        "U030-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U031-C01",
+      "unit": 31,
+      "stage": "C",
+      "zh": "会议期间你不能使用手机。",
+      "en": "You mustn't use your phone during the meeting.",
+      "vocab": [
+        {
+          "id": "V-phone",
+          "lemma": "phone",
+          "zh": "手机"
+        },
+        {
+          "id": "V-meeting",
+          "lemma": "meeting",
+          "zh": "会议"
+        }
+      ],
+      "grammarIds": [
+        "U031-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U032-C01",
+      "unit": 32,
+      "stage": "C",
+      "zh": "你应该多喝点水。",
+      "en": "You should drink more water.",
+      "vocab": [
+        {
+          "id": "V-drink",
+          "lemma": "drink",
+          "zh": "喝"
+        }
+      ],
+      "grammarIds": [
+        "U032-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U033-C01",
+      "unit": 33,
+      "stage": "C",
+      "zh": "昨天我们不得不取消会议。",
+      "en": "We had to cancel the meeting yesterday.",
+      "vocab": [
+        {
+          "id": "V-cancel",
+          "lemma": "cancel",
+          "zh": "取消"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        },
+        {
+          "id": "V-meeting",
+          "lemma": "meeting",
+          "zh": "会议"
+        }
+      ],
+      "grammarIds": [
+        "U033-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U034-C01",
+      "unit": 34,
+      "stage": "C",
+      "zh": "你想要一些咖啡吗？",
+      "en": "Would you like some coffee?",
+      "vocab": [
+        {
+          "id": "V-coffee",
+          "lemma": "coffee",
+          "zh": "咖啡"
+        }
+      ],
+      "grammarIds": [
+        "U034-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U035-C01",
+      "unit": 35,
+      "stage": "C",
+      "zh": "请别忘了你的钥匙。",
+      "en": "Please don't forget your keys.",
+      "vocab": [
+        {
+          "id": "V-forget",
+          "lemma": "forget",
+          "zh": "忘记"
+        },
+        {
+          "id": "V-key",
+          "lemma": "key",
+          "zh": "钥匙"
+        }
+      ],
+      "grammarIds": [
+        "U035-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U036-C01",
+      "unit": 36,
+      "stage": "C",
+      "zh": "小时候我常常在河里游泳。",
+      "en": "I used to swim in the river when I was young.",
+      "vocab": [
+        {
+          "id": "V-river",
+          "lemma": "river",
+          "zh": "河流"
+        },
+        {
+          "id": "V-swim",
+          "lemma": "swim",
+          "zh": "游泳"
+        }
+      ],
+      "grammarIds": [
+        "U036-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U037-C01",
+      "unit": 37,
+      "stage": "C",
+      "zh": "这个城市里有很多公园。",
+      "en": "There are many parks in this city.",
+      "vocab": [
+        {
+          "id": "V-park",
+          "lemma": "park",
+          "zh": "公园"
+        },
+        {
+          "id": "V-city",
+          "lemma": "city",
+          "zh": "城市"
+        }
+      ],
+      "grammarIds": [
+        "U037-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U038-C01",
+      "unit": 38,
+      "stage": "C",
+      "zh": "这条街以前有一家小书店。",
+      "en": "There was a small bookshop on this street.",
+      "vocab": [
+        {
+          "id": "V-bookshop",
+          "lemma": "bookshop",
+          "zh": "书店"
+        }
+      ],
+      "grammarIds": [
+        "U038-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U039-C01",
+      "unit": 39,
+      "stage": "C",
+      "zh": "从这里到车站很远。",
+      "en": "It's a long way from here to the station.",
+      "vocab": [
+        {
+          "id": "V-station",
+          "lemma": "station",
+          "zh": "车站"
+        }
+      ],
+      "grammarIds": [
+        "U039-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U040-C01",
+      "unit": 40,
+      "stage": "C",
+      "zh": "我会说英语，但我妹妹不会。",
+      "en": "I can speak English, but my sister can't.",
+      "vocab": [
+        {
+          "id": "V-sister",
+          "lemma": "sister",
+          "zh": "妹妹"
+        }
+      ],
+      "grammarIds": [
+        "U040-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U041-C01",
+      "unit": 41,
+      "stage": "C",
+      "zh": "你明天不上班，是吗？",
+      "en": "You aren't working tomorrow, are you?",
+      "vocab": [
+        {
+          "id": "V-work",
+          "lemma": "work",
+          "zh": "上班"
+        }
+      ],
+      "grammarIds": [
+        "U041-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U042-C01",
+      "unit": 42,
+      "stage": "C",
+      "zh": "她不喜欢雨天，我也不喜欢。",
+      "en": "She doesn't like rainy days, and neither do I.",
+      "vocab": [
+        {
+          "id": "V-rainy",
+          "lemma": "rainy",
+          "zh": "下雨的"
+        }
+      ],
+      "grammarIds": [
+        "U042-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U043-C01",
+      "unit": 43,
+      "stage": "C",
+      "zh": "我们现在没有空。",
+      "en": "We don't have any free time now.",
+      "vocab": [
+        {
+          "id": "V-free-time",
+          "lemma": "free time",
+          "zh": "空闲时间"
+        }
+      ],
+      "grammarIds": [
+        "U043-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U044-C01",
+      "unit": 44,
+      "stage": "C",
+      "zh": "这辆车属于你吗？",
+      "en": "Does this car belong to you?",
+      "vocab": [
+        {
+          "id": "V-belong",
+          "lemma": "belong",
+          "zh": "属于"
+        }
+      ],
+      "grammarIds": [
+        "U044-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U045-C01",
+      "unit": 45,
+      "stage": "C",
+      "zh": "谁给你打了电话？",
+      "en": "Who called you?",
+      "vocab": [
+        {
+          "id": "V-call",
+          "lemma": "call",
+          "zh": "打电话"
+        }
+      ],
+      "grammarIds": [
+        "U045-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U046-C01",
+      "unit": 46,
+      "stage": "C",
+      "zh": "你在找什么？",
+      "en": "What are you looking for?",
+      "vocab": [
+        {
+          "id": "V-look-for",
+          "lemma": "look for",
+          "zh": "寻找"
+        }
+      ],
+      "grammarIds": [
+        "U046-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U047-C01",
+      "unit": 47,
+      "stage": "C",
+      "zh": "你要哪个包？",
+      "en": "Which bag do you want?",
+      "vocab": [
+        {
+          "id": "V-bag",
+          "lemma": "bag",
+          "zh": "包"
+        }
+      ],
+      "grammarIds": [
+        "U047-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U048-C01",
+      "unit": 48,
+      "stage": "C",
+      "zh": "从机场坐车到这里要多久？",
+      "en": "How long does it take to get here from the airport by car?",
+      "vocab": [
+        {
+          "id": "V-airport",
+          "lemma": "airport",
+          "zh": "机场"
+        }
+      ],
+      "grammarIds": [
+        "U048-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U049-C01",
+      "unit": 49,
+      "stage": "C",
+      "zh": "你知道谁拿走了我的书吗？",
+      "en": "Do you know who took my book?",
+      "vocab": [
+        {
+          "id": "V-take",
+          "lemma": "take",
+          "zh": "拿走"
+        }
+      ],
+      "grammarIds": [
+        "U049-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U050-C01",
+      "unit": 50,
+      "stage": "C",
+      "zh": "她告诉我她喜欢这份工作。",
+      "en": "She told me that she liked the job.",
+      "vocab": [
+        {
+          "id": "V-job",
+          "lemma": "job",
+          "zh": "工作"
+        }
+      ],
+      "grammarIds": [
+        "U050-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U051-C01",
+      "unit": 51,
+      "stage": "C",
+      "zh": "我不喜欢等公交车。",
+      "en": "I don't like waiting for buses.",
+      "vocab": [
+        {
+          "id": "V-wait",
+          "lemma": "wait",
+          "zh": "等待"
+        }
+      ],
+      "grammarIds": [
+        "U051-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U052-C01",
+      "unit": 52,
+      "stage": "C",
+      "zh": "我决定明年学习法语。",
+      "en": "I decided to learn French next year.",
+      "vocab": [
+        {
+          "id": "V-decide",
+          "lemma": "decide",
+          "zh": "决定"
+        },
+        {
+          "id": "V-learn",
+          "lemma": "learn",
+          "zh": "学习"
+        }
+      ],
+      "grammarIds": [
+        "U052-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U053-C01",
+      "unit": 53,
+      "stage": "C",
+      "zh": "老师让我们打开书。",
+      "en": "The teacher asked us to open our books.",
+      "vocab": [
+        {
+          "id": "V-ask",
+          "lemma": "ask",
+          "zh": "要求"
+        },
+        {
+          "id": "V-teacher",
+          "lemma": "teacher",
+          "zh": "老师"
+        }
+      ],
+      "grammarIds": [
+        "U053-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U054-C01",
+      "unit": 54,
+      "stage": "C",
+      "zh": "我到厨房拿一杯水。",
+      "en": "I went to the kitchen to get a glass of water.",
+      "vocab": [
+        {
+          "id": "V-kitchen",
+          "lemma": "kitchen",
+          "zh": "厨房"
+        }
+      ],
+      "grammarIds": [
+        "U054-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U055-C01",
+      "unit": 55,
+      "stage": "C",
+      "zh": "我们明天去购物吧。",
+      "en": "Let's go shopping tomorrow.",
+      "vocab": [
+        {
+          "id": "V-shop",
+          "lemma": "shop",
+          "zh": "购物"
+        }
+      ],
+      "grammarIds": [
+        "U055-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U056-C01",
+      "unit": 56,
+      "stage": "C",
+      "zh": "昨晚我很晚才到家。",
+      "en": "I got home late last night.",
+      "vocab": [
+        {
+          "id": "V-get-home",
+          "lemma": "get home",
+          "zh": "到家"
+        }
+      ],
+      "grammarIds": [
+        "U056-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U057-C01",
+      "unit": 57,
+      "stage": "C",
+      "zh": "请不要在这份报告里犯同样的错误。",
+      "en": "Please don't make the same mistake in this report.",
+      "vocab": [
+        {
+          "id": "V-mistake",
+          "lemma": "mistake",
+          "zh": "错误"
+        }
+      ],
+      "grammarIds": [
+        "U057-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U058-C01",
+      "unit": 58,
+      "stage": "C",
+      "zh": "我们明天早上开个会吧。",
+      "en": "Let's have a meeting tomorrow morning.",
+      "vocab": [
+        {
+          "id": "V-meeting",
+          "lemma": "meeting",
+          "zh": "会议"
+        }
+      ],
+      "grammarIds": [
+        "U058-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U059-C01",
+      "unit": 59,
+      "stage": "C",
+      "zh": "我昨天看见他们了，但他们没有看见我。",
+      "en": "I saw them yesterday, but they didn't see me.",
+      "vocab": [
+        {
+          "id": "V-see",
+          "lemma": "see",
+          "zh": "看见"
+        },
+        {
+          "id": "V-yesterday",
+          "lemma": "yesterday",
+          "zh": "昨天"
+        }
+      ],
+      "grammarIds": [
+        "U059-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U060-C01",
+      "unit": 60,
+      "stage": "C",
+      "zh": "我的电脑很旧，她的电脑是新的。",
+      "en": "My computer is old, and her computer is new.",
+      "vocab": [
+        {
+          "id": "V-computer",
+          "lemma": "computer",
+          "zh": "电脑"
+        }
+      ],
+      "grammarIds": [
+        "U060-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U061-C01",
+      "unit": 61,
+      "stage": "C",
+      "zh": "这是他的笔记本，不是我的。",
+      "en": "This is his notebook, not mine.",
+      "vocab": [
+        {
+          "id": "V-notebook",
+          "lemma": "notebook",
+          "zh": "笔记本"
+        }
+      ],
+      "grammarIds": [
+        "U061-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U062-C01",
+      "unit": 62,
+      "stage": "C",
+      "zh": "这是我们的房间，那是他们的。",
+      "en": "This is our room, and that is theirs.",
+      "vocab": [
+        {
+          "id": "V-room",
+          "lemma": "room",
+          "zh": "房间"
+        }
+      ],
+      "grammarIds": [
+        "U062-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U063-C01",
+      "unit": 63,
+      "stage": "C",
+      "zh": "她自己修好了自行车。",
+      "en": "She repaired her bicycle herself.",
+      "vocab": [
+        {
+          "id": "V-repair",
+          "lemma": "repair",
+          "zh": "修好"
+        },
+        {
+          "id": "V-bicycle",
+          "lemma": "bicycle",
+          "zh": "自行车"
+        }
+      ],
+      "grammarIds": [
+        "U063-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U064-C01",
+      "unit": 64,
+      "stage": "C",
+      "zh": "那是我父亲的办公室。",
+      "en": "That's my father's office.",
+      "vocab": [
+        {
+          "id": "V-father",
+          "lemma": "father",
+          "zh": "父亲"
+        },
+        {
+          "id": "V-office",
+          "lemma": "office",
+          "zh": "办公室"
+        }
+      ],
+      "grammarIds": [
+        "U064-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    },
+    {
+      "id": "U065-C01",
+      "unit": 65,
+      "stage": "C",
+      "zh": "我哥哥是一名建筑师。",
+      "en": "My brother is an architect.",
+      "vocab": [
+        {
+          "id": "V-architect",
+          "lemma": "architect",
+          "zh": "建筑师"
+        },
+        {
+          "id": "V-brother",
+          "lemma": "brother",
+          "zh": "哥哥"
+        }
+      ],
+      "grammarIds": [
+        "U065-G01"
+      ],
+      "difficulty": 3,
+      "source": "原创训练句",
+      "verified": "needs-human-audit"
+    }
+  ]
+}
